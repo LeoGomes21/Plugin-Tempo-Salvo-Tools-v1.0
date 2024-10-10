@@ -72,4 +72,4 @@ Módulo do Plugin: Converter Linhas para Polígonos
 Módulo do Plugin: Converter Polígonos para Linhas 
 - Converte uma camada de polígonos para linhas com diversos processos unificados 
 
-* Verifique se sua máquina possui todos os módulos Python instalados
+OBS: Verifique se sua máquina possui todos os módulos Python instalados
