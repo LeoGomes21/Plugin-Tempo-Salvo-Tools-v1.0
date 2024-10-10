@@ -35,7 +35,8 @@ No Gerenciar Camadas: Pontos
 - Altere o tamanho da camada de pontos rapidamente 
 
 No Gerenciar Camadas: Rasters 
-- Exporte a camada Rasters personalizadas para DXF 
+- Exporte a camada Rasters personalizadas para DXF
+- Exporte imagem do Google Earth e outros provedores para DXF
 - Exporte a camada Rasters personalizadas para KML No Gerenciar Camadas: Malhas 
 - Exporte a camada de Malhas 3D para DXF 
 - Exporte a camada de Malhas 3D para DAE 
