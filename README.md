@@ -1,4 +1,5 @@
 Este Plugin realiza diversas ações, além de ser um otimizador de processos 
+
 No "Gerenciar Camadas: Linhas 
 - Controle da Lista de Camadas 
 - Adicione camadas em um clique 
